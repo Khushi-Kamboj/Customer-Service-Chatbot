@@ -15,14 +15,13 @@
 # Customer-Service-Chatbot
 AI-powered chatbot integrated into a food delivery website to assist customers in placing their orders effortlessly. Built using Dialogflow, the chatbot provides a seamless conversational interface that allows users to interact naturally and order food items from the menu.
 ## Directory structure
-===================
+
 backend: Contains Python FastAPI backend code
 db: contains the dump of the database. you need to import this into your MySQL db by using MySQL workbench tool
 dialogflow_assets: this has training phrases etc. for our intents
 frontend: website code
 
 ## Install these modules
-======================
 
 pip install mysql-connector
 pip install "fastapi[all]"
