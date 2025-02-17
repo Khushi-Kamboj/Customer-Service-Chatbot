@@ -1,3 +1,17 @@
+## Preview
+![banner](https://github.com/user-attachments/assets/f2d858e2-ddba-4df6-a2f7-4de284a9996b)
+
+
+## Features
+- AI-powered chatbot for food ordering
+- Uses Google Dialogflow for intent recognition
+- Supports multiple food items for ordering
+
+## Technologies Used
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Firebase
+- **Chatbot Integration:** Dialogflow API
+
 # Customer-Service-Chatbot
 AI-powered chatbot integrated into a food delivery website to assist customers in placing their orders effortlessly. Built using Dialogflow, the chatbot provides a seamless conversational interface that allows users to interact naturally and order food items from the menu.
 ## Directory structure
